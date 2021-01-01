@@ -26,6 +26,15 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <style>
+    @font-face{
+      font-family: "SetoFont";
+      src: url(setofont.ttf) format("truetype");
+    }
+    #text108{
+      font-family: "SetoFont", serif;
+    }
+  </style>
   <defs
      id="defs118">
     <inkscape:path-effect
