@@ -243,6 +243,9 @@ body{
     padding: 10px 5px;
     min-width: 150px;
   }
+  #comments{
+    float: left;
+  }
   #contents{
     width: auto;
   }
@@ -261,6 +264,9 @@ body{
     border: none;
     border-left: #fff 1px solid;
     padding: 10px 5px;
+  }
+  #comments{
+    float: left;
   }
   #contents{
     width: 839px;
