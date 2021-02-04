@@ -58,7 +58,7 @@ body>div{
   margin: auto;
   padding: 10px 40px;
   border: #6af 1px solid;
-  background-color: #fff9;
+  background-color: #fff6;
   clear: both;
 }
 #contents:after{
@@ -97,6 +97,7 @@ body>div{
 #side{
   border: none;
   border-top: #fff 1px solid;
+  border-bottom: #fff 1px solid;
   padding: 10px;
 }
 #footer{
@@ -109,11 +110,13 @@ body>div{
   margin: 0;
 }
 h1{
-  height: 75px;
+  max-height: 75px;
   margin: 5px 0;
+  clear: both;
 }
 h1 img.mio-family-icon{
   width: 100%;
+  max-height: 75px;
   margin-right: 20px;
 }
 h2{
