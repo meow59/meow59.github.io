@@ -1,0 +1,13 @@
+<svg width="150" height="32" xmlns="http://www.w3.org/2000/svg">
+ <title>Facebook Profile</title>
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="34" width="137" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_1" fill="#fff" d="m29,0l-26,0c-1.65,0 -3,1.35 -3,3l0,26c0,1.65 1.35,3 3,3l13,0l0,-14l-4,0l0,-4l4,0l0,-2c0,-3.306 2.694,-6 6,-6l4,0l0,4l-4,0c-1.1,0 -2,0.9 -2,2l0,2l6,0l-1,4l-5,0l0,14l9,0c1.65,0 3,-1.35 3,-3l0,-26c0,-1.65 -1.35,-3 -3,-3z"/>
+  <text style="cursor: move;" xml:space="preserve" font-family="Helvetica, Arial, sans-serif" font-size="20" id="svg_3" y="23" x="40" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="null" fill="#ffffff">Aray Hsieh</text>
+ </g>
+</svg>
