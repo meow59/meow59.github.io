@@ -126,6 +126,10 @@ h3{
   border-left: #0af 8px solid;
   padding-left: 10px
 }
+.inc_n{
+  background: #09f;
+  color: #fff;
+}
 #about_me img{
   margin-bottom: 20px;
   transform: rotate(5deg);
